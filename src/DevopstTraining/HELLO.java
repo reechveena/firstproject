@@ -1,4 +1,4 @@
-apackage DevopstTraining;
+package DevopstTraining;
 
 public class HELLO {
 
